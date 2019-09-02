@@ -21,7 +21,7 @@
 ![contoh screenshot](img/3.png)
 ![contoh screenshot](img/4.png)
 
-link kode program : (../../laporan-praktikum-pbo/src/1_Pengantar_Konsep_PBO/Sepeda.java)
+link kode program : (../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
 link kode program : (../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 link kode program : (../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
