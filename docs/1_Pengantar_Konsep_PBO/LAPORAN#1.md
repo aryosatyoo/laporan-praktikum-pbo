@@ -2,51 +2,95 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+-
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+-
 
 ## Percobaan
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+![contoh screenshot](img/1.png)
+![contoh screenshot](img/2.png)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+![contoh screenshot](img/3.png)
+![contoh screenshot](img/4.png)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+link kode program : (../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
+link kode program : (../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
+link kode program : (../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+ 1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek!
+
+ 		- Class : Merupakan kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu. 
+
+ 		- Objek : Membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer
+
+ 	 	- Enkapsulasi : Sebuah objek tidak dapat mengganti keadaan dalam dari sebuah objek dengan cara yang tidak layak hanya metode dalam objek tersebut yang diberi izin untuk mengakses keadaannya biasanya disebut pewarisan
+
+ 		- Abstraksi : Merupakan hierarki tertinggi dari sub-sub class-nya. Kelas abstrak digunakan untuk membuat sebuah kelas yang memiliki method yang belum jelas implementasinya 
+
+ 		- Inheritance : Sebuah objek dapat mempunyai objek turunan. Dalam hal pemrogramman makan dapat diimpelementasikan dengan sebuah class yang mempunyai class turunan. Class yang mempunyai class turunan disebut sebagai Parent Class, sedangkan class yang menjadi turunan dari Parent Class disebut sebagai Subclass atau Child Class.
+
+ 		- Polimorfisme : Ketika sebuah program memanggil sebuah method melalui sebuah variabel kelas induk (superclass), kelas turunan (subkelas) yang sesuai dari method itu dipanggil, berdasarkan pada tipe tersebut disimpan di dalam variabel kelas induk (superclass)
+
+ 2. Apa yang dimaksud dengan object dan apa bedanya dengan class?
+
+ 	- Class merupakan kumpulan dari suatu fungsi yang dibuat untuk suatu tujuan tertentu misalkan kita membuat class sepeda maka di didalam class tersebut terdapat fungsi yang membuat sepeda tersebut berfungsi
+
+ 	- Object merupakan pemanfaatan dari class yang sudah siap digunakan, misalkan kita sudah membuat class sepeda, maka sepeda tersebut harus sudah berfungsi. maka sepeda tersebut bernama object. 
+
+ 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural! 
+
+	- Hanya menggunakan 1 class
+	- Bisa menambahkan class tanpa mengedit class awal
+	- Data yang digunakan private hanya bisa di akses oleh beberapa fungsi
+
+4. Pada class Sepeda, terdapat state/atribut apa saja?
+
+	- gear, merek, kecepatan.
+
+5. Tambahkan atribut warna pada class Sepeda.
+	
+	-  tambahkan code di class sepeda : 
+	public void setWarna(String newValue)
+    {
+        warna = newValue;
+    }
+
+    - lalu tambahkan di class sepedaDemo
+    	spd1.setWarna("Merah");
+    	spd2.setWarna("Hijau");
+    	spd3.setWarna("Kuning");
+
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
+
+	- Ini dinamakan inherintance atau pewarisan.
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+![code](img/5.png)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![ccode](img/6.png)
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![hasil running](img/7.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+
+link kode program :(../../src/1_Pengantar_Konsep_PBO/Barang.java)
+
+link kode program :(../../src/1_Pengantar_Konsep_PBO/main.java)
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+sulit dan saya akan terus mencoba walaupun masi sedikit melihat internet.
 
 ## Pernyataan Diri
 
@@ -56,4 +100,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+Aryo Satyo Wandowo Adi
