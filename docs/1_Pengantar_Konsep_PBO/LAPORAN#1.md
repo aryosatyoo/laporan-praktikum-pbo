@@ -2,11 +2,13 @@
 
 ## Kompetensi
 
--
+Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
+1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
+2. Konsep dasar PBO
 
 ## Ringkasan Materi
 
--
+Di dalam percobaan,kita belajar Inheritance. Inherintance sendiri ialah Sebuah objek dapat mempunyai objek turunan.
 
 ## Percobaan
 
@@ -90,7 +92,16 @@ link kode program :[main](../../src/1_Pengantar_Konsep_PBO/main.java)
 
 ## Kesimpulan
 
-sulit dan saya akan terus mencoba walaupun masi sedikit melihat internet.
+Dari percobaan diatas, kita telah mendemonstrasikan bagaimana paradigma pemrograman
+berorientasi objek dan mengimplementasikannya kedalam program sederhana. Kita juga telah
+mendemonstrasikan salah satu fitur paling penting dari PBO yaitu inheritance, yaitu dalam hal
+membuat class SepedaGunung.
+Kita ketahui bahwa SepedaGunung pada dasarnya adalah sama dengan Sepeda (memiliki gear,
+memiliki kecepatan, dapat menambah kecepatan, dapat mengerem, pindah gigi, dsb) namun ada
+fitur tambahan yaitu tipe suspensi. Maka kita tidak perlu membuat class SepedaGunung dari nol,
+kita extends atau wariskan saja dari class Sepeda, kemudian kita tinggal tambahkan fitur yang
+sebelumnya belum ada di class Sepeda. Inilah salah satu kelebihan PBO yang tidak ada di
+pemrograman struktural.
 
 ## Pernyataan Diri
 
