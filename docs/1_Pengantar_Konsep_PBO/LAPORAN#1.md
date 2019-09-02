@@ -22,8 +22,8 @@
 ![contoh screenshot](img/4.png)
 
 link kode program : [Sepeda](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
-link kode program : (../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
-link kode program : (../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
+link kode program : [SepedaDemo](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
+link kode program : [SepedaGunung](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 
 ## Pertanyaan
@@ -84,9 +84,9 @@ link kode program : (../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 ![hasil running](img/7.png)
 
 
-link kode program :(../../src/1_Pengantar_Konsep_PBO/Barang.java)
+link kode program :[Barang](../../src/1_Pengantar_Konsep_PBO/Barang.java)
 
-link kode program :(../../src/1_Pengantar_Konsep_PBO/main.java)
+link kode program :[main](../../src/1_Pengantar_Konsep_PBO/main.java)
 
 ## Kesimpulan
 
