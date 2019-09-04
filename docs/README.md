@@ -11,5 +11,3 @@ Setiap file laporan berformat seperti berikut:
 > **LAPORAN#3.md** : untuk laporan pertemuan 3
 
 > **LAPORAN#XX.md** : untuk laporan pertemuan *XX* selanjutnya.
-
-lol
