@@ -59,8 +59,8 @@ program berikut:
 6. Jalankan class TestMahasiswa
     <br><br>![Percobaan3](img/Screenshot_4.png)
 
-link kode program :[mahasiswa](../../src/2_Class_dan_Object/mahasiswa.java)
-<br>link kode program :[Mahasiswa Main](../../src/2_Class_dan_Object/testMahasiswa.java)
+link kode program :[mahasiswa](../../src/2_Class_dan_Object/Mahasiswa.java)
+<br>link kode program :[Mahasiswa Main](../../src/2_Class_dan_Object/TestMahasiswa.java)
 
 7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
 
