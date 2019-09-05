@@ -148,4 +148,5 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-Aryo Satyo Wandowo Adi
+Aryo Satyo Wandowo Adi - 05
+
