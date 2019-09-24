@@ -8,7 +8,10 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 ## <h1>Ringkasan Materi
  
-
+- Relasi
+- Setter Getter
+- Konstruktor
+- Array 
 
 ### <h1>Percobaan 1
 
@@ -323,9 +326,21 @@ Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasik
 program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan
 pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung).
 
+<br>![tugas1](img/tugas1.png)
+<br>![tugas2](img/tugas2.png)
+<br>![tugas3](img/tugas3.png)
+<br>![tugas4](img/tugas4.png)
+<br>![tugas5](img/tugas5.png)
+
+link kode program :[Film](../../src/4_Relasi_Class/tugas/Film.java)
+<br>link kode program :[Genre](../../src/4_Relasi_Class/tugas/Genre.java)
+<br>link kode program :[Penonton](../../src/4_Relasi_Class/tugas/Penonton.java)
+<br>link kode program :[Studio](../../src/4_Relasi_Class/tugas/Studio.java)
+<br>link kode program :[Main](../../src/4_Relasi_Class/tugas/Main.java)
+
 ## <h1>Kesimpulan
 
--
+- Dari jobsheet ini kita masih mempelajari setter dan getter. Selain itu kita juga akan belajar dan mamahami relasi antar class ke class
 
 ## <h1>Pernyataan Diri
 
