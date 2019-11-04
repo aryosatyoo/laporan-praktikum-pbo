@@ -12,7 +12,7 @@ e. Menerapkan object casting untuk meng-ubah bentuk objek
 
 ## <h1>Ringkasan Materi
 
-Polimorfisme merupakan kemampuan objek-objek yang berbeda kelas namun terkait dalam pewarisan untuk merespon secara berbeda terhadap suatu pesan yang sama. Polimarfisme juga dapat dikatakan kemampuan sebuah objek untuk memutuskan method mana yang akan diterapkan padanya, tergantung letak objek tersebut pada jenjang pewarisan.
+Polimorfisme merupakan kemampuan objek-objek yang berbeda kelas namun terkait dalam pewarisan untuk merespon secara berbeda terhadap suatu pesan yang sama. 
  
 ### <h1>Praktikum
 
@@ -171,6 +171,52 @@ diperlukan ? Mengapa objek p yang bertipe Payable harus di-casting
 ke dalam objek eb yang bertipe ElectricityBill ?
 <br> - Karena diperlukan mengembalikan ke instan yang dapat memanggil method getBillInfo yang ada pada class ElectricityBill.
 
+## <h1>Tugas 
+
+
+Dalam suatu permainan, Zombie dan Barrier bisa dihancurkan oleh Plant dan
+bisa menyembuhkan diri. Terdapat dua jenis Zombie, yaitu Walking Zombie
+dan Jumping Zombie. Kedua Zombie tersebut memiliki cara penyembuhan
+yang berbeda, demikian juga cara penghancurannya, yaitu ditentukan oleh
+aturan berikut ini:
+
+• Pada WalkingZombie
+<br>o Penyembuhan : Penyembuhan ditentukan berdasar level
+zombie yang bersangkutan
+<br>§ Jika zombie level 1, maka setiap kali penyembuhan,
+health akan bertambah 20%
+<br>§ Jika zombie level 2, maka setiap kali penyembuhan,
+health akan bertambah 30%
+<br>§ Jika zombie level 3, maka setiap kali penyembuhan,
+health akan bertambah 40%
+<br>o Penghancuran : setiap kali penghancuran, health akan
+berkurang 2%
+
+• Pada Jumping Zombie
+<br>o Penyembuhan : Penyembuhan ditentukan berdasar level
+zombie yang bersangkutan
+<br>§ Jika zombie level 1, maka setiap kali penyembuhan,
+health akan bertambah 30%
+<br>§ Jika zombie level 2, maka setiap kali penyembuhan,
+health akan bertambah 40%
+<br>§ Jika zombie level 3, maka setiap kali penyembuhan,
+health akan bertambah 50%
+<br>o Penghancuran : setiap kali penghancuran, health akan
+berkurang 1%
+
+Hasil : 
+![Screenshot_13](img/Screenshot_13.png)
+ <br><br>link kode program :[Zombie](../../src/10_Polimorfisme/Tugas/Zombie1841720170Aryo.java)
+ <br><br>link kode program :[Destroyable](../../src/10_Polimorfisme/Tugas/Destroyable1841720170Aryo.java)
+ <br><br>link kode program :[WalkingZombie](../../src/10_Polimorfisme/Tugas/WalkingZombie1841720170Aryo.java)
+ <br><br>link kode program :[JumpingZombie](../../src/10_Polimorfisme/Tugas/JumpingZombie1841720170Aryo.java)
+ <br><br>link kode program :[Barrier](../../src/10_Polimorfisme/Tugas/Barrier1841720170Aryo.java)
+ <br><br>link kode program :[Plant](../../src/10_Polimorfisme/Tugas/Plant1841720170Aryo.java)
+ <br><br>link kode program :[NewMain](../../src/10_Polimorfisme/Tugas/NewMain.java)
+
+## <h1>Kesimpulan
+
+Polimarfisme juga dapat dikatakan kemampuan sebuah objek untuk memutuskan method mana yang akan diterapkan padanya, tergantung letak objek tersebut pada jenjang pewarisan.
 
 ## <h1>Pernyataan Diri
 
