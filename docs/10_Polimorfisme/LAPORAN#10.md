@@ -69,8 +69,6 @@ Polimorfisme merupakan kemampuan objek-objek yang berbeda kelas namun terkait da
 <br>- error, karena class permanentEmployee dan internshipEmployee adalah turunan dari class interface payable.
 
 <br>6. Ambil kesimpulan tentang konsep/bentuk dasar polimorfisme!
-## <h1>Kesimpulan
-<br>- polimorfisme bisa digunakan jika class saling berelasi atau inheritance dan mempunyai class interface.
 
 <h2>5.1. Langkah Percobaan</h2>
 
@@ -172,7 +170,6 @@ ke dalam objek eb yang bertipe ElectricityBill ?
 <br> - Karena diperlukan mengembalikan ke instan yang dapat memanggil method getBillInfo yang ada pada class ElectricityBill.
 
 ## <h1>Tugas 
-
 
 Dalam suatu permainan, Zombie dan Barrier bisa dihancurkan oleh Plant dan
 bisa menyembuhkan diri. Terdapat dua jenis Zombie, yaitu Walking Zombie
