@@ -196,6 +196,50 @@ kedalam class!
 <br><br>link kode program :[TampilGui1841720170Aryo](../../src/12_Java_API/percobaan4/TampilGui1841720170Aryo.java)
 <br><br>link kode program :[TampilGui1841720170Aryo](../../src/12_Java_API/percobaan4/TampilGui1841720170Aryo.form)
 
+### Percobaan 5
+
+1. Buatlah Package baru dengan nama Biodata atau membuat project baru dengan cara
+<br>a. File  New Project
+<br>b. Pilih categories  Java dengan Projects  Java Application  klik next
+<br>c. Isi nama Project dengan Biodata dan atur letak project akan disimpan
+<br>d. Kemudian tambahkan Jframe Form dengan nama FormKoneksi.
+<br>e. Desain FormKoneksi seperti berikut
+
+2. Langkah selanjutnya tambahkan libraries, dengan cara klik kanan pada Libraries. Kemudian
+pilih add library dan pilih MySQL JDBC Driver.
+
+
+3. Pada tahap ini aplikasi sudah siap untuk bertransaksi dengan database yang sudah kita buat
+pada langkah 1. Selanjutnya kita buat method untuk melakukan koneksi dengan database,
+seperti berikut:
+<br>![Screenshot_19](img/Screenshot_23.png)
+
+4. Pada button add klik tambahkan code sebagai berikut:
+<br>![Screenshot_19](img/Screenshot_24.png)
+
+5. Setelah menambah code pada action button klik, coba jalankan program dan tambahkan
+data. Apakah program berhasil menambahkan data? Jika tidak apakah penyebabnya.
+<br>![Screenshot_19](img/Screenshot_24.png)
+
+6. Jelaskan maksud source code untuk melakukan insert data diatas?
+- as
+
+7. Buat Table model yang digunakan untuk memanipulasi tampilan pada Jtable, seperti pada
+code dibawah ini:
+<br>![Screenshot_19](img/Screenshot_25.png)
+
+8. Selanjutnya buat method ambil_data_tabel seperti berikut
+<br>![Screenshot_19](img/Screenshot_26.png)
+Jalankan program maka data yang sudah kita add akan tampil seperti berikut:
+
+9. Jelaskan alur dari method ambil_data_tabel?
+
+10. Buat fungsi untuk merefresh sehingga data yang baru dapat ditampilkan pada tabel
+<br>![Screenshot_19](img/Screenshot_22.png)
+
+Link kode program :[FormKoneksi1841720170Aryo](../../src/12_Java_API/percobaan5/FormKoneksi1841720170Aryo.form)
+<br><br>Link kode program :[FormKoneksi1841720170Aryo](../../src/12_Java_API/percobaan5/FormKoneksi1841720170Aryo.java)
+
 ## <h1>Kesimpulan
 
 Pengertian API (Application Programming Interface)
